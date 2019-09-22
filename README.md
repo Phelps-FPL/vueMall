@@ -71,28 +71,5 @@ cnpm install vue-lazyload --save   // 图片加载
 
 ```
 
-> Markdown说明文件
-
-[01-GoodsList.md - 商品列表模块实现GoodsList.vue](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/01-GoodsList.md)
- <br/>
-[02-express.md - 搭建基于express框架运行环境](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/02-express.md)
- <br/>
-[03-GoodsListInterface.md - 基于Node.js开发商品列表接口](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/03-GoodsListInterface.md)
-<br>
-[04-pagingAndSort.md - 商品列表页分页和排序功能](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/04-pagingAndSort.md)
-<br>
-[05-priceAndCart.md - 商品列表价格过滤和加入购物车功能](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/05-priceAndCart.md)
-<br>
-[06-login.md - 登录模块(登录功能/登出功能/登录拦截功能/校验登录/全局模态框组件实现)](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/06-login.md)
-<br>
-[07-shoppingCart.md - 购物车模块实现(渲染购物车列表页面/购物车列表删除功能/购物车商品修改功能)](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/07-shoppingCart.md)
-<br>
-[08-address.md - 地址模块实现(地址列表渲染/地址切换和展开/设置默认地址/地址删除功能实现)](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/08-address.md)
-<br>
-[09-orderConfirm.md - 订单模块实现(订单列表渲染/创建订单功能/订单成功页面)](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/09-orderConfirm.md)
-<br>
-[10-vuex.md - 基于Vuex改造登录和购物车数量功能](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/10-vuex.md)
-
-未完待续......
 
 
