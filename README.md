@@ -7,7 +7,7 @@
 1、先安装mongodb和环境搭建： [http://www.cnblogs.com/ccyinghua/p/7887713.html](http://www.cnblogs.com/ccyinghua/p/7887713.html)
 
 2、安装mongovue,建立dumall数据库，增加goods和users集合，插入数据(数据在resource/dumall-goods和resource/dumall-users) <br>
-![image](https://github.com/ccyinghua/vue-node-mongodb-project/blob/master/resource/readme/1.jpg?raw=true)
+
 
 3、npm install<br>
 4、node server/bin/www  // 启动express后端服务<br>
@@ -71,5 +71,7 @@ cnpm install vue-lazyload --save   // 图片加载
 
 ```
 
+可以自己部署到服务器上
+页面展示: www.fpl95.com
 
 
