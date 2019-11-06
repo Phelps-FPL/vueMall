@@ -72,6 +72,7 @@ cnpm install vue-lazyload --save   // 图片加载
 ```
 
 可以自己部署到服务器上
+还不完善
 页面展示: www.fpl95.com
 
 
